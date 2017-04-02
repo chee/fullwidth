@@ -1,0 +1,11 @@
+{
+  "name": "fullwidthwebsite",
+  "version": "1.0.0",
+  "description": "lol fu i bet u use windows",
+  "main": "index.js",
+  "author": "chee",
+  "license": "MIT",
+  "dependencies": {
+    "fullwidth": "^1.2.0"
+  }
+}
